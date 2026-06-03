@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/services", "destination": "/services.html" },
+    { "source": "/gallery", "destination": "/gallery.html" },
+    { "source": "/booking", "destination": "/booking.html" },
+    { "source": "/contact", "destination": "/contact.html" }
+  ]
+}
